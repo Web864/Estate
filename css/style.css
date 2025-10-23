@@ -450,10 +450,11 @@ ul li {
         overflow: hidden;
     }
     .sub-container img{
-        width: 50px;
+        width: 4git status
+0px;
         position: absolute;
         top: 400px;
-        left: 120px;
+        right: 10px;
     }
     .sub-container-img img{
         width: 100%;
@@ -473,7 +474,7 @@ ul li {
         width: 45%;
     }
     .clients{
-        width: 50%;
+        width: 45%;
     }
     .experience{
         width: 100%;
