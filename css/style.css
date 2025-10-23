@@ -418,8 +418,8 @@ ul li {
         flex-direction: column;
         position: absolute;
         top: 65px;
-        left: 320px;
-        width: 40%;
+        right: 10px;
+        width: 30%;
         border-radius: 5px;
         background-color: var(--perple);
         z-index: 6;
@@ -450,11 +450,10 @@ ul li {
         overflow: hidden;
     }
     .sub-container img{
-        width: 4git status
-0px;
+        width: 50px;
         position: absolute;
         top: 400px;
-        right: 10px;
+        left: 120px;
     }
     .sub-container-img img{
         width: 100%;
@@ -506,5 +505,11 @@ ul li {
         flex-wrap: wrap;
         gap: 100px;
         justify-content: space-evenly;
+    }
+    .product-img{
+        width: 100%;
+    }
+    .product-category{
+        flex-wrap: wrap;
     }
 }
